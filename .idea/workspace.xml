@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="vcs.xml 파일 업데이트">
+    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="workspace.xml 파일 업데이트">
+      <change afterPath="$PROJECT_DIR$/docs/exclusion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpstorm-wp-sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpstorm-wp-sample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721550517217</updated>
       <workItem from="1721550518252" duration="118000" />
-      <workItem from="1721550638808" duration="1938000" />
+      <workItem from="1721550638808" duration="2453000" />
     </task>
     <task id="LOCAL-00001" summary="초기 상태 커밋">
       <option name="closed" value="true" />
@@ -147,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721552569012</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="workspace.xml 파일 업데이트">
+      <option name="closed" value="true" />
+      <created>1721552584769</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721552584769</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,16 +176,21 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/wp-content/plugins/naran-hide-welcome-guide" />
+    </ignored-roots>
     <MESSAGE value="초기 상태 커밋" />
     <MESSAGE value="특정 사용자 설정 파일 커밋" />
     <MESSAGE value="스펠링 파일 추가 후 커밋" />
     <MESSAGE value="custom-dictionaries.md 파일 추가" />
-    <MESSAGE value="workspace.xml 파일 업데이트" />
     <MESSAGE value="PHP 언어 레벨 조정 후 php.xml 파일 커밋" />
     <MESSAGE value="PHP 언어 레벨 조정 문서화" />
     <MESSAGE value="오타 수정" />
     <MESSAGE value="버전 컨트롤 설정 조정 문서 추가" />
     <MESSAGE value="vcs.xml 파일 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml 파일 업데이트" />
+    <MESSAGE value="workspace.xml 파일 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml 파일 업데이트" />
   </component>
 </project>
