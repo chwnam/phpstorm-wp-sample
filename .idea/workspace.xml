@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="스펠링 파일 추가 후 커밋">
-      <change afterPath="$PROJECT_DIR$/docs/custom-dictionaries.md" afterDir="false" />
+    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="vcs.xml 파일 업데이트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +12,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="ComposerSettings">
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2jY48ZNKIHKWOxTYm6oAZrNUhwk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +44,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721550517217</updated>
       <workItem from="1721550518252" duration="118000" />
-      <workItem from="1721550638808" duration="891000" />
+      <workItem from="1721550638808" duration="1938000" />
     </task>
     <task id="LOCAL-00001" summary="초기 상태 커밋">
       <option name="closed" value="true" />
@@ -85,7 +91,63 @@
       <option name="project" value="LOCAL" />
       <updated>1721550842871</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="custom-dictionaries.md 파일 추가">
+      <option name="closed" value="true" />
+      <created>1721551595759</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721551595759</updated>
+    </task>
+    <task id="LOCAL-00005" summary="workspace.xml 파일 업데이트">
+      <option name="closed" value="true" />
+      <created>1721551606564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721551606564</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PHP 언어 레벨 조정 후 php.xml 파일 커밋">
+      <option name="closed" value="true" />
+      <created>1721552033220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721552033220</updated>
+    </task>
+    <task id="LOCAL-00007" summary="PHP 언어 레벨 조정 문서화">
+      <option name="closed" value="true" />
+      <created>1721552040236</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721552040236</updated>
+    </task>
+    <task id="LOCAL-00008" summary="오타 수정">
+      <option name="closed" value="true" />
+      <created>1721552550582</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721552550582</updated>
+    </task>
+    <task id="LOCAL-00009" summary="버전 컨트롤 설정 조정 문서 추가">
+      <option name="closed" value="true" />
+      <created>1721552559347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721552559347</updated>
+    </task>
+    <task id="LOCAL-00010" summary="vcs.xml 파일 업데이트">
+      <option name="closed" value="true" />
+      <created>1721552569012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721552569012</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +168,13 @@
     <MESSAGE value="초기 상태 커밋" />
     <MESSAGE value="특정 사용자 설정 파일 커밋" />
     <MESSAGE value="스펠링 파일 추가 후 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="스펠링 파일 추가 후 커밋" />
+    <MESSAGE value="custom-dictionaries.md 파일 추가" />
+    <MESSAGE value="workspace.xml 파일 업데이트" />
+    <MESSAGE value="PHP 언어 레벨 조정 후 php.xml 파일 커밋" />
+    <MESSAGE value="PHP 언어 레벨 조정 문서화" />
+    <MESSAGE value="오타 수정" />
+    <MESSAGE value="버전 컨트롤 설정 조정 문서 추가" />
+    <MESSAGE value="vcs.xml 파일 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml 파일 업데이트" />
   </component>
 </project>
