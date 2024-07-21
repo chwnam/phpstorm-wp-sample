@@ -4,7 +4,7 @@
 
 `.idea/php.xml` 파일
 
-&lt;project version="4"&gt; 트 노드 아래 &lt;component name="PhpProjectSharedConfiguration"&gt;
+&lt;project version="4"&gt; 루트 엘리먼트 아래 &lt;component name="PhpProjectSharedConfiguration"&gt;
 엘리먼트에 저장됨.
 
 --- 
