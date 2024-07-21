@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="초기 상태 커밋">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2jY48ZNKIHKWOxTYm6oAZrNUhwk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +28,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/changwoo/develop/wordpress/phpstorm-wp-sample/wp-content/plugins/sample/custom.dic",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,7 +42,7 @@
       </set>
     </attachedChunks>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="3" Folder0="$PROJECT_DIR$/../libs/ko-aff-dic-0.7.94" Folder1="$PROJECT_DIR$/../libs/custom-plugin-directory" Folder2="$PROJECT_DIR$/wp-content/plugins/sample" CustomDictionaries="3" CustomDictionary0="$PROJECT_DIR$/../libs/ko-aff-dic-0.7.94/ko.dic" CustomDictionary1="$PROJECT_DIR$/../libs/custom-plugin-directory/custom.dic" CustomDictionary2="$PROJECT_DIR$/wp-content/plugins/sample/custom.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="" />
@@ -49,10 +51,24 @@
       <option name="presentableId" value="Default" />
       <updated>1721550517217</updated>
       <workItem from="1721550518252" duration="118000" />
+      <workItem from="1721550638808" duration="145000" />
     </task>
+    <task id="LOCAL-00001" summary="초기 상태 커밋">
+      <option name="closed" value="true" />
+      <created>1721550699219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721550699219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="초기 상태 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="초기 상태 커밋" />
   </component>
 </project>
