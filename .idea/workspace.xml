@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="workspace.xml 업데이트">
-      <change afterPath="$PROJECT_DIR$/docs/composer.md" afterDir="false" />
+    <list default="true" id="47bc3e2b-f44f-4b46-971f-2e72d575c3ab" name="Changes" comment="composer.md 문서 업데이트">
+      <change afterPath="$PROJECT_DIR$/docs/wordpress.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +24,16 @@
       <executable path="composer" />
     </execution>
   </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
   </component>
   <component name="NamedScopeManager">
     <scope name="Sample" pattern="(!file[phpstorm-wp-sample]:docs//*||file[phpstorm-wp-sample]:wp-content/plugins/sample//*||file:wp-content/plugins/hello.php||file[phpstorm-wp-sample]:wp-admin//*)&amp;&amp;!file[phpstorm-wp-sample]:wp-admin/maint//*" />
@@ -52,7 +59,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.composer",
+    "settings.editor.selected.configurable": "settings.php.frameworks",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -201,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721553159383</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="workspace.xml 업데이트">
+      <option name="closed" value="true" />
+      <created>1721660298253</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721660298253</updated>
+    </task>
+    <task id="LOCAL-00017" summary="composer.md 문서 업데이트">
+      <option name="closed" value="true" />
+      <created>1721660311678</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721660311678</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +261,11 @@
     <MESSAGE value=".iml 파일 업데이트" />
     <MESSAGE value="vcs.xml 롤백 - 초기화" />
     <MESSAGE value="workspace.xml 업데이트" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml 업데이트" />
+    <MESSAGE value="composer.md 문서 업데이트" />
+    <option name="LAST_COMMIT_MESSAGE" value="composer.md 문서 업데이트" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$</wordpressPath>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
